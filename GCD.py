@@ -1,4 +1,4 @@
-//greatest commond divisor
+#greatest commond divisor
 
 def greatest_common_divisor(x,y):
     print("For", x, "and", y,",")
