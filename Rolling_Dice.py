@@ -10,4 +10,4 @@ while rollSecond == "yes" or rollSecond == "y":
     print(random.randint(min, max))
     print(random.randint(min, max))
 
-    rollSecond = raw_input("Roll the dices again?")
+    rollSecond =input("Roll the dices again?")
